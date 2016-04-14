@@ -22,7 +22,7 @@
       description: "The URL that this nuxeo instance should serve"
       label: "Nuxeo URL"
       type: "string"
-      required: "true"
+      required: true
       default: "http://localhost:8080/"    
     - variable: volumedriver
       type: "string"
